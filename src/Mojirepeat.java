@@ -6,7 +6,7 @@ public class Mojirepeat {
 		System.out.println(3|5);
 		System.out.println(false && false);
 		System.out.println(3^5);
-		
+		System.out.println("요것은 github 시험, test를 위한 것임");
 		int num1 = 7, num2 = 7;
 		int result1, result2;
 		
